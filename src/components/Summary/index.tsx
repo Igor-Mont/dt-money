@@ -28,5 +28,5 @@ export function Summary() {
         <strong>R$700,00</strong>
       </div>
     </Container>
-  )
+  );
 }
